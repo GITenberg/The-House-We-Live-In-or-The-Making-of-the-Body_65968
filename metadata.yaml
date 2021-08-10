@@ -1,11 +1,16 @@
 _repo: The-House-We-Live-In-or-The-Making-of-the-Body_65968
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65968-h/images/cover.jpg
 creator:
   author:
     agent_name: Farnsworth, Vesta J.
     gutenberg_agent_id: '53571'
     url: http://www.gutenberg.org/2009/agents/53571
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65968#The-House-We-Live-In-or-The-Making-of-the-Body
 gutenberg_issued: '2021-07-31'
 gutenberg_type: Text
 identifiers:
